@@ -1,0 +1,75 @@
+/* ------------------------------------main banner -------------------- */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main-banner{
+    background-color: red;
+    width: 100%;
+    height: 406px;
+    background-image: url(./image/main\ banner\ copy1\ 2\ \(1\).png);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.vector-left{
+   color: #ffff;
+   padding-left: 25px;
+}
+.main-text{
+    color: #ffff;
+}
+.vector-right{
+    color: #ffff;
+    padding-left: 25px;
+}
+.text-1{
+        font-size: 83px;
+        padding-left: 208px;
+       
+}
+.text-2{
+    font-size: 176px;
+    font-style: italic;
+    padding-left: 150px;
+    font-weight: lighter;
+
+    /* font-family: 'Smith Rose Regular'; */
+    font-style: normal;
+    font-weight: normal;
+   
+}
+.text-3{
+    font-size: 26px;
+    padding-left: 201px;
+    font-family: 'Montserrat';
+}
+/* --------------------------------------end main banner-------------- */
+
+/* --------------------------------delivery section------------------- */
+.delivery-sec{
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 84px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center
+    
+}
+.sec1{
+    display: flex;
+    font-family: 'Montserrat';
+}
+.delivery{
+    margin-left: 15px;
+    margin-top: 7px;
+}
+.delv{
+    margin-left: 5px;
+    margin-top: 7px;
+}
+
+
+
+

@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#heading{
+    font-size: 32px;
+    font-weight: 400px;
+    font-family: 'Montserrat';
+    width: 100%;
+    text-align: center;
+}
+.Shop-by-category{
+    /* border: 2px solid red; */
+    margin-top: 30px;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.shop img{
+    /* border: 2px solid green; */
+    border-radius: 50%;
+    box-shadow: 0px 5px 22px 4px  gray;
+
+}
+.shop .sub{
+    margin-left: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+}
+.shop .sub-b{
+    margin-left: 35px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+}
+.shop .sub-x{
+    margin-left: 42px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+}
+.shop .sub-r{
+    margin-left: 13px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.shop .sub-C{
+    margin-left: 30px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+}
+ .Feel-Good-Others .shop .sub-f{
+    margin-left: 26px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+
+.shop .rate1{
+    margin-left: 20px;
+    color: red;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+}
+.shop .rate2{
+    margin-left: 47px;
+    color: red;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+}    
+
+.shop .rate3{
+    margin-left: 24px;
+    color: red;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+}    
+
+.shop .rate4{
+    margin-left: 52px;
+    color: red;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+}    
+
+.shop .rate5{
+    margin-left: 32px;
+    color: red;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+}    
+.rate6{
+    margin-left: 50px;
+    color: red;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+}   
+
+/* ------------- */
+.Feel-Good-Others{
+    display: flex;
+    /* padding-left: 20px; */
+}
+.shop img{
+    /* border: 2px solid green; */
+    border-radius: 50%;
+}
+.vector-shop{
+    margin-top: 81px;
+    position: relative;
+    right: 58px;
+    color: #fff;
+}
+.circle{
+    /* border: 2px solid yellow; */
+    background-color: #B39D81;
+    width: 39px;
+    height: 39px;
+    border-radius: 50%;
+    position: relative;
+    right: 38px;
+    top: 69px;
+}

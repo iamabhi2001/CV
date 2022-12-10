@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: red;
+    display: flex;
+    width: 425px;
+}
+.nav-list{
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style: none;
+}
+.search-navbar{
+
+
+}
+.left-navbar{
+    display: flex;
+}
